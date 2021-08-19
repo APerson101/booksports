@@ -1,0 +1,30 @@
+name: booksports
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  styled_widget: ^0.3.1
+  get: ^4.1.4
+  flutter_datetime_picker: ^1.5.1
+  cloud_functions: ^3.0.0
+  http: "0.13.3"
+  firebase_auth: ^3.0.2
+  dependencies:
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+
+  uses-material-design: true
